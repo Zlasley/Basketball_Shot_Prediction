@@ -18,7 +18,7 @@ sklearn.ensemble import RandomForestClassifier
 
 sklearn.model_selection import train_test_split, KFold, GridSearchCV, cross_val_score , RandomizedSearchCV
 
-sklearn.metrics import classification_report, plot_confusion_matrix
+sklearn.metrics import classification_report, ConfusionMatrixDisplay
 
 category_encoders import OrdinalEncoder
 
