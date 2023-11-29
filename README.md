@@ -1,4 +1,4 @@
-# Basketball_Shot_Prediction111
+# Basketball_Shot_Prediction
 
 This dataset contains an NBA player's field goal attempts from October 2009 through June 2019 (regular season and playoffs). 
 
