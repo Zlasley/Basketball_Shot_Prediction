@@ -2,7 +2,7 @@
 
 This dataset contains an NBA player's field goal attempts from October 2009 through June 2019 (regular season and playoffs). 
 
-The dataset was collected with the nba_api Python library.11
+The dataset was collected with the nba_api Python library.111
 
 This covers over parsing dates, feature engineering, baseline accuracy, modeling, and confusion matric (prescision & recall).
 
