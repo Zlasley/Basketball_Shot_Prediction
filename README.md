@@ -4,7 +4,7 @@ This dataset contains an NBA player's field goal attempts from October 2009 thro
 
 The dataset was collected with the nba_api Python library.
 
-This covers over parsing dates, feature engineering, baseline accuracy, modeling, and confusion matric (prescision & recall).
+This covers over parsing dates, feature engineering, baseline accuracy, modeling, and confusion matric (precision & recall).
 
 # Imports
 
